@@ -119,7 +119,7 @@ body {
     margin-left: 20px;
   }
   .timeline ul li div {
-    width: max(calc(100vw - 3%), 63vw);
+    width: max(calc(100vw - 3%), 60vw);
   }
   .timeline ul li:nth-of-type(even) > div {
     left: 45px;
