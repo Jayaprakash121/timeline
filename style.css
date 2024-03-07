@@ -96,7 +96,11 @@ body {
   visibility: visible;
   opacity: 1;
 }
-
+@media screen and (min-width: 900px){
+  #dis{
+    display:none;
+  }
+}
 @media screen and (max-width: 900px) {
   .timeline ul li div {
     width: 250px;
